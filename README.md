@@ -1,6 +1,6 @@
 
 #### Yao Hong
-I like tech and developments
+I like tech and developments\
 Front-end development while venturing into the realm of Backend
 
 [![Yao Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaohong6782&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
