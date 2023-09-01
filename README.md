@@ -1,4 +1,9 @@
-### Hi there 👋
+
+#### Yao Hong
+I like tech and developments
+Front-end development while venturing into the realm of Backend
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaohong6782&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yaohong6782/yaohong6782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
