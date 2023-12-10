@@ -1,6 +1,6 @@
 
 #### Yao Hong
-I generate code for high usage and write coding templates
+I generated code for high usage and I write coding templates
 
 [![Yao Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaohong6782&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Languages :</h3>
@@ -84,7 +84,5 @@ I generate code for high usage and write coding templates
       height="40"
     />
   </a>
-
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
