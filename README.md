@@ -2,7 +2,7 @@
 #### Yao Hong
 I generate code and write coding templates
 
-[![Yao Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaohong6782&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Languages :</h3>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img
